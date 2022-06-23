@@ -1,0 +1,1566 @@
+fileFormatVersion: 2
+guid: b8c5073ca822758498a592e44c306807
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7582486208308004648
+    second: NormalOn1
+  - first:
+      213: 5211270775371777431
+    second: NormalOn2
+  - first:
+      213: -428979503104521648
+    second: NormalOn3
+  - first:
+      213: 1854467349883144597
+    second: YaraliOn1
+  - first:
+      213: 380799119893866602
+    second: YaraliOn2
+  - first:
+      213: 6174617864968377838
+    second: YaraliOn3
+  - first:
+      213: 2329702222293004171
+    second: MumyaOn1
+  - first:
+      213: -2900888059802031901
+    second: MumyaOn2
+  - first:
+      213: 8479599116310752243
+    second: MumyaOn3
+  - first:
+      213: 4655057733704651354
+    second: IskeletOn1
+  - first:
+      213: -4284352820202626529
+    second: IskeletOn2
+  - first:
+      213: 5940203165487590947
+    second: IskeletOn3
+  - first:
+      213: -2333132217624505604
+    second: NormalSol1
+  - first:
+      213: -379169504389353081
+    second: NormalSol3
+  - first:
+      213: -8318119930880536579
+    second: YaraliSol1
+  - first:
+      213: 7077136977782096162
+    second: YaraliSol3
+  - first:
+      213: 5183905330911042553
+    second: MumyaSol3
+  - first:
+      213: 1838244494196903725
+    second: IskeletSol1
+  - first:
+      213: 6512940297742127731
+    second: IskeletSol3
+  - first:
+      213: 5531086668708658787
+    second: NormalSag1
+  - first:
+      213: -2434653444671729481
+    second: NormalSag3
+  - first:
+      213: -7269015992440639436
+    second: YaraliSag1
+  - first:
+      213: 7910204235883425611
+    second: YaraliSag3
+  - first:
+      213: 2159320158097778507
+    second: IskeletSag1
+  - first:
+      213: 6448547646228940174
+    second: IskeletSag3
+  - first:
+      213: -4139044039383773493
+    second: NormalArka1
+  - first:
+      213: 7636057051382482215
+    second: NormalArka3
+  - first:
+      213: -4201370038943163058
+    second: YaraliArka1
+  - first:
+      213: 1224954813662824441
+    second: YaraliArka3
+  - first:
+      213: -698271311623212318
+    second: MumyaArka1
+  - first:
+      213: -7519901823441577546
+    second: MumyaArka3
+  - first:
+      213: 6373100586433708672
+    second: IskeletArka1
+  - first:
+      213: 9023551016849413007
+    second: IskeletArka3
+  - first:
+      213: 7481339503576602890
+    second: KralIskeletOn1
+  - first:
+      213: 5564869069608214713
+    second: KralIskeletOn3
+  - first:
+      213: -7705964921340192223
+    second: KralIskeletSol1
+  - first:
+      213: -3995198448996694335
+    second: KralIskeletSol3
+  - first:
+      213: 1365849658948444552
+    second: KralIskeletSag1
+  - first:
+      213: -3414757516983254279
+    second: KralIskeletSag3
+  - first:
+      213: 5348815414095183193
+    second: KralIskeletArka1
+  - first:
+      213: 5896139836215278604
+    second: KralIskeletArka3
+  - first:
+      213: 354952190860723140
+    second: MumyaSol2
+  - first:
+      213: 8613059597814697277
+    second: MumyaSag2
+  - first:
+      213: -3965187483632343326
+    second: MumyaArka2
+  - first:
+      213: -3801244344023514664
+    second: MumyaSol1
+  - first:
+      213: 3871601951052826779
+    second: MumyaSag1
+  - first:
+      213: 5423987268433561513
+    second: YaraliSol2
+  - first:
+      213: -1929509520700432629
+    second: YaraliSag2
+  - first:
+      213: 2074519797278383815
+    second: YaraliArka2
+  - first:
+      213: 7861711336265188217
+    second: MumyaSag3
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NormalOn1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 224
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8b08f97f895c690800000000000000
+      internalID: -7582486208308004648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalOn2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 224
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795c862e827225840800000000000000
+      internalID: 5211270775371777431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalOn3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 224
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a088d2a65fb0af0800000000000000
+      internalID: -428979503104521648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YaraliOn1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 224
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5994855ba346cb910800000000000000
+      internalID: 1854467349883144597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YaraliOn2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a682e0038ced84500800000000000000
+      internalID: 380799119893866602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YaraliOn3
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 224
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee59831db36a0b550800000000000000
+      internalID: 6174617864968377838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumyaOn1
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 223
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f6630f3d3c45020800000000000000
+      internalID: 2329702222293004171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumyaOn2
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 224
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8e35edda9fdb7d0800000000000000
+      internalID: -2900888059802031901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumyaOn3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb2b6d28769da570800000000000000
+      internalID: 8479599116310752243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IskeletOn1
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 224
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52966268561a9040800000000000000
+      internalID: 4655057733704651354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IskeletOn2
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 224
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12216b3fcbea84c0800000000000000
+      internalID: -4284352820202626529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IskeletOn3
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 224
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ee9847e47df6250800000000000000
+      internalID: 5940203165487590947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalSol1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 192
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2d87a0c9c0f9fd0800000000000000
+      internalID: -2333132217624505604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalSol3
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 192
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781363d385becbaf0800000000000000
+      internalID: -379169504389353081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YaraliSol1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 192
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffc4c08ef9109c80800000000000000
+      internalID: -8318119930880536579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YaraliSol3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 192
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221cb73c59a073260800000000000000
+      internalID: 7077136977782096162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumyaSol3
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 192
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbd436de6ee0f740800000000000000
+      internalID: 5183905330911042553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IskeletSol1
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 192
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f8ce6c0a1c28910800000000000000
+      internalID: 1838244494196903725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IskeletSol3
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 192
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3721f3a91bc926a50800000000000000
+      internalID: 6512940297742127731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalSag1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 160
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e374e250e52cc40800000000000000
+      internalID: 5531086668708658787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalSag3
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 160
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b01927679f563ed0800000000000000
+      internalID: -2434653444671729481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YaraliSag1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 160
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43031ffb7744f1b90800000000000000
+      internalID: -7269015992440639436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YaraliSag3
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 160
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f2f9ca7d0b6cd60800000000000000
+      internalID: 7910204235883425611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IskeletSag1
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 160
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4722c34e3277fd10800000000000000
+      internalID: 2159320158097778507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IskeletSag3
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 160
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8548aa1be7dd7950800000000000000
+      internalID: 6448547646228940174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalArka1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 128
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce05d230692f86c0800000000000000
+      internalID: -4139044039383773493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalArka3
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 128
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72505404e69b8f960800000000000000
+      internalID: 7636057051382482215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YaraliArka1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 128
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4dd2da953cb1b5c0800000000000000
+      internalID: -4201370038943163058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YaraliArka3
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 128
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f70746b9e9eff010800000000000000
+      internalID: 1224954813662824441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumyaArka1
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 128
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e23ad111fd3f46f0800000000000000
+      internalID: -698271311623212318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumyaArka3
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 128
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9d3fb3221f3a790800000000000000
+      internalID: -7519901823441577546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IskeletArka1
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 128
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082073c973dc17850800000000000000
+      internalID: 6373100586433708672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IskeletArka3
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 128
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f839ceb47d71a3d70800000000000000
+      internalID: 9023551016849413007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KralIskeletOn1
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 96
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09d7c204ae03d760800000000000000
+      internalID: 7481339503576602890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KralIskeletOn3
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 96
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b06e835fe26a3d40800000000000000
+      internalID: 5564869069608214713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KralIskeletSol1
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 64
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a95e36bb9ee0590800000000000000
+      internalID: -7705964921340192223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KralIskeletSol3
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 64
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c64c589d243e88c0800000000000000
+      internalID: -3995198448996694335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KralIskeletSag1
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 32
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881e53a370974f210800000000000000
+      internalID: 1365849658948444552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KralIskeletSag3
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 32
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f24e1661285c90d0800000000000000
+      internalID: -3414757516983254279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KralIskeletArka1
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95df646a74fca3a40800000000000000
+      internalID: 5348815414095183193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KralIskeletArka3
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c34a321fb43d150800000000000000
+      internalID: 5896139836215278604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalSol2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 192
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76230081c1c1593b0800000000000000
+      internalID: -5506464062403235225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalSag2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 160
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f174151fb65aa580800000000000000
+      internalID: -8815137941931920905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NormalArka2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 128
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5d298559d718800800000000000000
+      internalID: 612909104688715229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IskeletSol2
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 192
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94d4ca2553a2cd00800000000000000
+      internalID: 991534454160020636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IskeletSag2
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 160
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2c3609ae9aec2f0800000000000000
+      internalID: -950635646418697477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IskeletArka2
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 128
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05defd97fc1b97bc0800000000000000
+      internalID: -3784798507167126192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KralIskeletOn2
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 96
+        width: 29
+        height: 32
+      alignment: 9
+      pivot: {x: 0.50643396, y: -0.61336637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db56baeee92bc910800000000000000
+      internalID: 1858625377337236433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KralIskeletSol2
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 64
+        width: 29
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e931e5c8eb8c8f0800000000000000
+      internalID: -519956246878249389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KralIskeletSag2
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 32
+        width: 29
+        height: 32
+      alignment: 9
+      pivot: {x: 0.50643396, y: -0.61336637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9008e6f1a0f4de7e0800000000000000
+      internalID: -1734643376572170231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KralIskeletArka2
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 0
+        width: 29
+        height: 32
+      alignment: 9
+      pivot: {x: 0.50643396, y: -0.61336637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8839340944b243bf0800000000000000
+      internalID: -345603697922567288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumyaSol2
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 192
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c30080132b0de400800000000000000
+      internalID: 354952190860723140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumyaSag2
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 160
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d830df11cb78770800000000000000
+      internalID: 8613059597814697277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumyaArka2
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 128
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6e44afdf2d8f8c0800000000000000
+      internalID: -3965187483632343326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumyaSol1
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 191
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d10402b8644f3bc0800000000000000
+      internalID: -3801244344023514664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumyaSag1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 159
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98863c3671bab530800000000000000
+      internalID: 3871601951052826779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YaraliSol2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 192
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a74931eeafd54b40800000000000000
+      internalID: 5423987268433561513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YaraliSag2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 160
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f9aeb50510935e0800000000000000
+      internalID: -1929509520700432629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YaraliArka2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 128
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce1b4ca3cc2acc10800000000000000
+      internalID: 2074519797278383815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MumyaSag3
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 160
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9738fb4aec86a1d60800000000000000
+      internalID: 7861711336265188217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
